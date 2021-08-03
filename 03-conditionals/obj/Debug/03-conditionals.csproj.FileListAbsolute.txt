@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\03-conditionals.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\03-conditionals.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\obj\Debug\03-conditionals.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\obj\Debug\03-conditionals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\obj\Debug\03-conditionals.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\obj\Debug\03-conditionals.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\03-conditionals\obj\Debug\03-conditionals.pdb
