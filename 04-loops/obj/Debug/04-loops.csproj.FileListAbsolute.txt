@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\04-loops.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\04-loops.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\obj\Debug\04-loops.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\obj\Debug\04-loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\obj\Debug\04-loops.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\obj\Debug\04-loops.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\04-loops\obj\Debug\04-loops.pdb
