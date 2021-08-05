@@ -13,7 +13,7 @@ namespace _05_classes
 
     public class Vehicle
     {
-        // classes kind of like nouns
+        // classes are like nouns
         // properties are variables that exist within the entire class - kind of like adjectives
         // class methods are like verbs
 
