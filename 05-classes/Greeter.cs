@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 namespace _05_classes
 {
     public class Greeter // make public so it can be accessed elsewhere
-    {   
+    {
         // 1 - access modifier => visibility in the program (public)
         // 2 - return type => what the method gives back (in this case, nothing)
         // 3 - name => uses PascalCase
@@ -41,6 +42,20 @@ namespace _05_classes
             Console.WriteLine(randomGreeting);
 
         }
+
+        public void greetingEmail(name);
+        {
+            string greeting = Hello and welcome to Komodo Insurance!;
+
+            return "This is Us";
+        }
+
+    [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethod]
+    public void MyTestMethod()
+    {
+
+    }
+
     }
 
 }

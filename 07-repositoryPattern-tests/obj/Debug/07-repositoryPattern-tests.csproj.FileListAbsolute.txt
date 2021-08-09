@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\obj\Debug\07-repositoryPattern-tests.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\obj\Debug\07-repositoryPattern-tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\07-repositoryPattern-tests.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\07-repositoryPattern-tests.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\07-repositoryPattern-repository.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\07-repositoryPattern-repository.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\obj\Debug\07-repositoryPattern-tests.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\obj\Debug\07-repositoryPattern-tests.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\07-repositoryPattern-tests\obj\Debug\07-repositoryPattern-tests.pdb
