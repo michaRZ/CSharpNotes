@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-repositoryPattern-reposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-repositoryPattern-tests", "07-repositoryPattern-tests\07-repositoryPattern-tests.csproj", "{09F8FC70-A813-491B-B3DC-12EDC647EFC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-streamingContent-inheritance", "08-streamingContent-inheritance\08-streamingContent-inheritance.csproj", "{D77ECDF1-4FCC-4D1E-B3CB-E300454B9CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-streamingContent-console", "09-streamingContent-console\09-streamingContent-console.csproj", "{18E19113-18A9-4463-BFF0-1F12D7E2C57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{09F8FC70-A813-491B-B3DC-12EDC647EFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09F8FC70-A813-491B-B3DC-12EDC647EFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09F8FC70-A813-491B-B3DC-12EDC647EFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77ECDF1-4FCC-4D1E-B3CB-E300454B9CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77ECDF1-4FCC-4D1E-B3CB-E300454B9CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77ECDF1-4FCC-4D1E-B3CB-E300454B9CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77ECDF1-4FCC-4D1E-B3CB-E300454B9CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E19113-18A9-4463-BFF0-1F12D7E2C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E19113-18A9-4463-BFF0-1F12D7E2C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E19113-18A9-4463-BFF0-1F12D7E2C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E19113-18A9-4463-BFF0-1F12D7E2C57E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

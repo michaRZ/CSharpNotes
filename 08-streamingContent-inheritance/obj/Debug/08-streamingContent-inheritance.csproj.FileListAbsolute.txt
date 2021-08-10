@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\bin\Debug\08-streamingContent-inheritance.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\bin\Debug\08-streamingContent-inheritance.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\bin\Debug\07-repositoryPattern-repository.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\bin\Debug\07-repositoryPattern-repository.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\obj\Debug\08-streamingContent-inheritance.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\obj\Debug\08-streamingContent-inheritance.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\obj\Debug\08-streamingContent-inheritance.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\obj\Debug\08-streamingContent-inheritance.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\08-streamingContent-inheritance\obj\Debug\08-streamingContent-inheritance.pdb

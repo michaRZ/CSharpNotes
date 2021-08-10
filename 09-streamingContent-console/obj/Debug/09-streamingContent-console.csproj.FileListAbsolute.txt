@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\09-streamingContent-console.exe.config
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\09-streamingContent-console.exe
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\09-streamingContent-console.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\08-streamingContent-inheritance.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\07-repositoryPattern-repository.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\08-streamingContent-inheritance.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\bin\Debug\07-repositoryPattern-repository.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\obj\Debug\09-streamingContent-console.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\obj\Debug\09-streamingContent-console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\obj\Debug\09-streamingContent-console.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\obj\Debug\09-streamingContent-console.exe
+C:\ElevenFiftyProjects\SD100\CSharpNotes\09-streamingContent-console\obj\Debug\09-streamingContent-console.pdb

@@ -19,7 +19,7 @@ namespace _07_repositoryPattern_repository
 
 
         // Reference repository
-        private readonly List<StreamingContent> _contentDirectory = new List<StreamingContent>();
+        protected readonly List<StreamingContent> _contentDirectory = new List<StreamingContent>();
 
 
 
