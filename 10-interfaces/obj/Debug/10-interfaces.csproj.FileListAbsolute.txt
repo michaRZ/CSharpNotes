@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\obj\Debug\10-interfaces.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\obj\Debug\10-interfaces.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\10-interfaces.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\10-interfaces.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\obj\Debug\10-interfaces.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\obj\Debug\10-interfaces.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\10-interfaces\obj\Debug\10-interfaces.pdb

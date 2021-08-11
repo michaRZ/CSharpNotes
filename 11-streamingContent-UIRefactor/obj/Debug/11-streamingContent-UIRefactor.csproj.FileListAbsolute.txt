@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\11-streamingContent-UIRefactor.exe.config
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\11-streamingContent-UIRefactor.exe
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\11-streamingContent-UIRefactor.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\07-repositoryPattern-repository.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\08-streamingContent-inheritance.dll
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\07-repositoryPattern-repository.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\bin\Debug\08-streamingContent-inheritance.pdb
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\obj\Debug\11-streamingContent-UIRefactor.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\obj\Debug\11-streamingContent-UIRefactor.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\obj\Debug\11-streamingContent-UIRefactor.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\obj\Debug\11-streamingContent-UIRefactor.exe
+C:\ElevenFiftyProjects\SD100\CSharpNotes\11-streamingContent-UIRefactor\obj\Debug\11-streamingContent-UIRefactor.pdb
